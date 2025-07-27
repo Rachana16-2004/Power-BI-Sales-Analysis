@@ -66,9 +66,7 @@ This dashboard enables business users and analysts to:
 - Compare product category growth
 - Identify top-performing products
 - Optimize quarterly strategies
-
----
-
-## 📷 Visualisattion:
+  
+## 📷 Visualization :
 
 ![Uploading image.png…](https://github.com/Rachana16-2004/Power-BI-Sales-Analysis/blob/main/Screenshot%202025-07-26%20231910.png?raw=true)
