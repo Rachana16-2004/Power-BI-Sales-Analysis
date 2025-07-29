@@ -71,3 +71,5 @@ This dashboard enables business users and analysts to:
 ## 📷 Visualization :
 
 ![Uploading image.png…](https://github.com/Rachana16-2004/Power-BI-Sales-Analysis/blob/main/Screenshot%202025-07-26%20231910.png?raw=true)
+![image](<img width="1342" height="744" alt="image" src="https://github.com/user-attachments/assets/336ae44f-298a-43df-ae14-eb5d5f770563" />)
+)
