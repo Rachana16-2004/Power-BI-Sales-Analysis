@@ -3,6 +3,7 @@
 
 This Power BI dashboard presents a comprehensive **Sales Analysis** overview, helping stakeholders quickly understand sales performance across time, product categories, and top-performing products.
 
+---
 ## 🧾 Overview
 This dashboard visualizes key sales metrics including:
 - **Year-To-Date (YTD) Sales**: `$2.18M`
@@ -66,7 +67,7 @@ This dashboard enables business users and analysts to:
 - Compare product category growth
 - Identify top-performing products
 - Optimize quarterly strategies
-  ---
+---
 ## 📷 Visualization :
 
 ![Uploading image.png…](https://github.com/Rachana16-2004/Power-BI-Sales-Analysis/blob/main/Screenshot%202025-07-26%20231910.png?raw=true)
