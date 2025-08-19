@@ -58,7 +58,7 @@ Table view of different product categories with:
 - **Data Source**: Cleaned sales dataset (not included here)
 - **Visuals**: Line charts, bar charts, slicers, and tables
 
----
+--- 
 
 ## 📌 Purpose
 
