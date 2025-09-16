@@ -11,7 +11,7 @@ This dashboard visualizes key sales metrics including:
 - **YTD Products Sold**: `27.75K` 
 - **YTD Revenue (Review)**: `$19.42M`
 
-## 📅 Time-based Analysis
+## 📅 Time-based Analysis 
 
 - **Sales by Month**: Line graph showing the sum of sales across months.
 - **Sales by Week**: Weekly sales trends for granular insights.
