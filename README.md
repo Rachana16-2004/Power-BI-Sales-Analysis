@@ -9,7 +9,7 @@ This Power BI dashboard presents a comprehensive **Sales Analysis** overview, he
 This dashboard visualizes key sales metrics including:   
 - **Year-To-Date (YTD) Sales**: `$2.18M`
 - **Quarter-To-Date (QTD) Sales**: `$811.09K`  
-- **YTD Products Sold**: `27.75K` 
+- **YTD Products Sold**: `27.75K`  
 - **YTD Revenue (Review)**: `$19.42M`
 
 ## 📅 Time-based Analysis 
